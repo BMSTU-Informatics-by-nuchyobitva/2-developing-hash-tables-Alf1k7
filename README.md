@@ -30,4 +30,5 @@ deleted позволяет помечать элементы как удален
 4.5 Вывод Хэш Таблицы
 4.6 Рехэширование (rehash)
 Увеличивает размер таблицы вдвое и перераспределяет элементы.
-![image](https://github.com/user-attachments/assets/5e35b319-dc2d-4663-94b7-ef8cb71753b3
+/![image](https://github.com/user-attachments/assets/d0955b6f-8ad8-44b8-86c3-d574cf2a8cb5)
+
